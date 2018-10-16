@@ -1,0 +1,13 @@
+Input values that are used in the following simulation:
+
+
+Sweep up:
+Starting voltage = 1.01
+Change in voltage = 1.5
+
+Sweep down:
+Starting voltage = 1.01
+Change in voltage = -0.005
+
+The initial CO coverage is 2250 or 90
+The finial OH coverage is 2500 or 100
